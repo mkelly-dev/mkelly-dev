@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and entreprene
 
 ## 🚀 Current Projects
 - 🌐 [TeamUp](https://github.com/mkelly-dev/TeamUp.git) - Sports app built in android studio
-- 🛒 [Dropshipping Store](//markado-store.myshopify.com/) — Built with Shopify & custom code
 
 ## 🛠️ Tech Stack
 **Languages:**
