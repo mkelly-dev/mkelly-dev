@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate software developer and entrepreneur working on cool tech projects.
 
 ## 🚀 Current Projects
-- 🌐 [TeamUp](https://github.com/mkelly-dev/TeamUp.git) - Sports app built in android studio
+- 🌐 [TeamUp](https://github.com/mkelly-dev/TeamUp.git) - Sports app built in android 
+- [BabyNest](https://github.com/mkelly-dev/BabyNest-2025-k00272514) - An online marketplace
 
 ## 🛠️ Tech Stack
 **Languages:**
